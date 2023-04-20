@@ -1,0 +1,135 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '595986178844@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0AB7292221115009A1B',
+    participant: undefined
+  },
+  messageTimestamp: 1681418617,
+  pushName: 'V.A',
+  messageStubType: 2,
+  messageStubParameters: [ 'Message absent from node' ],
+  body: undefined,
+  from: '595986178844'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '595986178844@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0AB7292221115009A1B',
+    participant: undefined
+  },
+  messageTimestamp: 1681418617,
+  pushName: 'V.A',
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '595986178844'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '595986178844@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0074CAA42B0A501597B',
+    participant: undefined
+  },
+  messageTimestamp: 1681418742,
+  pushName: 'V.A',
+  message: Message {
+    conversation: 'doc',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'doc',
+  from: '595986178844'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '595986178844@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB011830447B45EFFFF87',
+    participant: undefined
+  },
+  messageTimestamp: 1681418837,
+  pushName: 'V.A',
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '595986178844'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '595983854953@s.whatsapp.net',
+    fromMe: false,
+    id: '3ABF9B44DCF539DCD39E',
+    participant: undefined
+  },
+  messageTimestamp: 1681421376,
+  pushName: 'Juan Bobadilla',
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/18866393_181178584802250_913309777095966031_n.enc?ccb=11-4&oh=01_AdTXJExqv93oUp4owZFLgXEAWLxs_7ddBaxHC9_aJ42qWw&oe=645FCAA4&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 3,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/18866393_181178584802250_913309777095966031_n.enc?ccb=11-4&oh=01_AdTXJExqv93oUp4owZFLgXEAWLxs_7ddBaxHC9_aJ42qWw&oe=645FCAA4',
+      mediaKeyTimestamp: [Long],
+      streamingSidecar: [Uint8Array],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_voice_note__e59365d3-92ad-42ee-bf38-589bab13bb07',
+  from: '595983854953'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '595983854953@s.whatsapp.net',
+    fromMe: false,
+    id: '3A101030501A0432A220',
+    participant: undefined
+  },
+  messageTimestamp: 1681421387,
+  pushName: 'Juan Bobadilla',
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/17609108_962939778052690_1789260802886148094_n.enc?ccb=11-4&oh=01_AdTIpHm2p2RKYavUBA9VXa2scl9akvl7-qxTiZd7Z2_srA&oe=645FCC53&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 9,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/17609108_962939778052690_1789260802886148094_n.enc?ccb=11-4&oh=01_AdTIpHm2p2RKYavUBA9VXa2scl9akvl7-qxTiZd7Z2_srA&oe=645FCC53',
+      mediaKeyTimestamp: [Long],
+      streamingSidecar: [Uint8Array],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_voice_note__ae9a7102-ffa3-448b-9d54-75da4ff32c2f',
+  from: '595983854953'
+}
